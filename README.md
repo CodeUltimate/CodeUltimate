@@ -24,6 +24,6 @@ When I'm not coding, you can find me tweaking configurations on my Linux system 
 
 ### Tools & Platforms
 - ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&color=FCC624)
-- ![Unix](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=unix&color=4EAA25)
+- ![Mac](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&color=999999)
 - ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=F05032)
 - ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&color=2496ED)
